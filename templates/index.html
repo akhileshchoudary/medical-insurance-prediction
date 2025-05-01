@@ -69,7 +69,8 @@
             });
             
             const result = await response.json();
-            document.getElementById("result").innerText = `Predicted Charges: $${result.predicted_charges}`;
+            document.getElementById("result").innerText = `Predicted Charges: Rs${result.predicted_charges}`;
+
         }
     </script>
 </body>
