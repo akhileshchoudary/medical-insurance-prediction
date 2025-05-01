@@ -53,6 +53,8 @@ The app is deployed on **Render** using a `render.yaml` configuration:
 
 - **Build Command**: `pip install -r requirements.txt`
 - **Start Command**: `uvicorn app:app --host 0.0.0.0 --port $PORT`
+![image](https://github.com/user-attachments/assets/99965cb2-98e1-445f-a329-3e7d2afc15a6)
+
 
 ## Limitations
 
