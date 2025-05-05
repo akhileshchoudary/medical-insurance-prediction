@@ -56,15 +56,4 @@ The app is deployed on **Render** using a `render.yaml` configuration:
 ![image](https://github.com/user-attachments/assets/99965cb2-98e1-445f-a329-3e7d2afc15a6)
 
 
-## Limitations
-
-- The free tier on Render may cause delays due to idle timeouts.
-- The model does not handle edge cases (e.g., invalid inputs) robustly—future improvements could include input validation.
-
-## About Me
-
-I am a data science enthusiast with a strong foundation in predictive modeling, data analysis, and web development. This project showcases my ability to bridge machine learning with practical applications, a skill I aim to leverage in data science roles. I am also pursuing a **Dental Hygienist License** to deepen my understanding of healthcare systems, complementing my technical expertise with domain knowledge.
-
-
-
 
